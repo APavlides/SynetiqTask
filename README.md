@@ -1,5 +1,5 @@
 # SynetiqTask
-This function calculate RMSSD from IBT values, for time windows related to stimulus events of participants. The output includes a table of RMSSD value per participant and per stimulus event called RMSSD_Table.csv. In addition, the output also includes a figure showing the mean RMSSD over participants for events greater than 15 seconds.
+This function calculates RMSSD from IBT values, for time windows related to stimulus events of participants. The output includes a table of RMSSD value per participant and per stimulus event called RMSSD_Table.csv. In addition, the output also includes a figure showing the mean RMSSD over participants for events greater than 15 seconds.
 
 The function(path, num_cores) parameters are:
 *   path - path to data folder                                                     
